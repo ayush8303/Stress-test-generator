@@ -1,0 +1,258 @@
+Input :- 
+S = ieavozjm
+K = 15
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = dcwig
+K = 15
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = vtqxt
+K = 6
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = tdvsihjj
+K = 10
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = qje
+K = 7
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = pagxxfu
+K = 14
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = qy
+K = 2
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = ccs
+K = 13
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = hsygyo
+K = 9
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = il
+K = 5
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = zzdswp
+K = 11
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = tqojniqzh
+K = 5
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = xflidttf
+K = 9
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = lltvpa
+K = 13
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = tehe
+K = 10
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = jgywuonk
+K = 13
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = ldnlzn
+K = 2
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = thccnjbkb
+K = 11
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = pgqx
+K = 5
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = hxfxvlytmg
+K = 2
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = daugypvqu
+K = 13
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = xlkoqkct
+K = 4
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = wgdfssx
+K = 13
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = oji
+K = 13
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = nzzodp
+K = 8
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = zdqjivw
+K = 4
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = bdyrlhn
+K = 10
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = qrhddlnmf
+K = 3
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = kht
+K = 7
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = nwaifqy
+K = 3
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = qnnvnaof
+K = 11
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = fhynvhm
+K = 3
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = oku
+K = 7
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = jqmqjbnl
+K = 3
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = lhbpp
+K = 8
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = hndt
+K = 6
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = hhoc
+K = 6
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = irwrlu
+K = 12
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = lxxuc
+K = 6
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = gutm
+K = 11
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = yu
+K = 6
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = cv
+K = 10
+Your output = hello world
+Expected output = hello
+------------
+Input :- 
+S = gfqbv
+K = 13
+Your output = hello world
+Expected output = hello
+------------
