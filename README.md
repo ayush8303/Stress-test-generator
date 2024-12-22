@@ -1,6 +1,6 @@
 ### Test Case Generator
 
-This repository provides tool to generate failed test cases for competitive programming and DSA problems.
+This repository provides tool to generate failed test cases for competitive programming / DSA problems.
 
 ---
 
