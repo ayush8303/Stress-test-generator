@@ -6,6 +6,8 @@ This repository provides tool to generate failed test cases for competitive prog
 
 #### Guidelines
 
+- The idea is to generate random test cases and test both the author's solution and your solution. Failed test cases should be printed in the `wrong_ans.txt` file.
+
 - Generate small random values to easily identify failed test cases.
 
 - Ensure overflow checks, as `int` is used as `int64_t` (similar to `long long int`).
